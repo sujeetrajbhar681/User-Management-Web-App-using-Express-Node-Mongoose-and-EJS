@@ -117,4 +117,4 @@ project/
 
 ## Author
 
-Developed by **Your Name** as a **User Management Web Application** using **Node.js, Express.js, MongoDB, Mongoose, EJS, and Bootstrap 5**.
+Developed by **Sujeet** as a **User Management Web Application** using **Node.js, Express.js, MongoDB, Mongoose, EJS, and Bootstrap 5**.
