@@ -99,7 +99,7 @@ project/
 
 ### Dashboard
 
-![Dashboard](uploads/dashboard.png)
+![Dashboard](uploads/delete.png)
 
 ### Profile Dashboard
 
